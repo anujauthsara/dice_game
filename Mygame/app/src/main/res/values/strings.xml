@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Mygame</string>
+
+
+        <string name="play_button_text">🎲 Play 🎲</string>
+        <string name="highest_score_button_text">🏆 Highest Score 🏆</string>
+        <string name="dice_image_description">🎲 Dice Image 🎲</string>
+        <string name="topic_text">DICE GAME</string>
+
+        <string name="winMessageTextView_text">YOU WIN !! 😊🎉</string>
+        <string name="replayButton_text">Replay 🔁</string>
+
+    <string name="loseMessageTextView_text">YOU LOSE !! </string>
+    <string name="retryButton_text">Re Try 🔁</string>
+
+
+
+
+</resources>
